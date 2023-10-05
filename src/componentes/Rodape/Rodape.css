@@ -1,0 +1,30 @@
+.footer{
+    width:100%;
+    background:#6278F7;
+    padding:10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    padding:32px 0;
+}
+.footer .redes ul{
+    list-style: none;
+    padding:0;
+    margin: 0;
+}
+.footer .redes ul li{
+    display: inline-block;
+    padding:0 20px;
+}
+.footer .redes ul li a{
+    cursor: pointer;
+}
+.footer .organo{
+    max-width: 191px;
+}
+.footer .dev{
+    color:#FFF;
+    cursor: default;
+}
